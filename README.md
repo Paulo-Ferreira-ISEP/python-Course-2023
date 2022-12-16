@@ -6,6 +6,7 @@ Create a GitHub account.
 
 Select Codespaces 
 
-Create a new Codespace based on this repository: 
+Create a new Codespace based on this repository: https://github.com/Paulo-Ferreira-ISEP/python-Course-202
+
 
 
