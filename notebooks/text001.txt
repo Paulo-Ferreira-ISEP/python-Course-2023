@@ -1,0 +1,7 @@
+# file text001.txt 
+# first comments with # on the beginning 
+# then values 
+1
+3
+5 
+6 
