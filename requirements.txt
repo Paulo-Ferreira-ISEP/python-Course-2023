@@ -5,5 +5,7 @@ pandas
 torch
 torchvision==0.13.1
 tqdm==4.64.0
+jupyter_bokeh
 bokeh
 pandas_datareader
+
