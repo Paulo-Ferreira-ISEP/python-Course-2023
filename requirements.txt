@@ -9,5 +9,8 @@ jupyter_bokeh
 bokeh
 pandas_datareader
 yfinance
+openpyxl
+
+
 
 
